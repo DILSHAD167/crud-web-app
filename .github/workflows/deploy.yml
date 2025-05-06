@@ -7,9 +7,9 @@ on:
 
 env:
   AWS_REGION: us-east-2
-  ECR_REPO_NAME: crud-project
-  CLUSTER_NAME: crud-cluster
-  SERVICE_NAME: crud-service
+  ECR_REPO_NAME: my-project
+  CLUSTER_NAME: my-cluster
+  SERVICE_NAME: my-service
 
 jobs:
   deploy:
