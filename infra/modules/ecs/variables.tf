@@ -1,0 +1,13 @@
+variable "ecs_cluster_name" {}
+variable "ecs_task_family" {}
+variable "ecs_service_name" {}
+variable "ecs_container_name" {}
+variable "ecs_task_execution_role_arn" {}
+variable "repository_url" {}
+variable "public_subnet_az1_id" {}
+variable "public_subnet_az2_id" {}
+variable "ecs_security_group_id" {}
+variable "alb_target_group_arn" {}
+variable "log_group_name" {}
+variable "log_group_arn" {}
+variable "region" {}
