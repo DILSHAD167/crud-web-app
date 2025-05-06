@@ -1,7 +1,7 @@
 const employeesData = [
   {
     id: 1,
-    firstName: 'Susan',
+    firstName: 'Jacob',
     lastName: 'Jordon',
     email: 'susan@example.com',
     salary: '95000',
